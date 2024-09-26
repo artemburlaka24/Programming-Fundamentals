@@ -1,3 +1,9 @@
+/**
+ * Done by:
+ * Student Name: Artem Burlaka
+ * Student Group: 121
+ * Lab 1.6
+ */
 #include <iostream>
 #include <bitset>
 
