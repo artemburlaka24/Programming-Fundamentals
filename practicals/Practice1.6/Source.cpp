@@ -17,12 +17,10 @@ int main()
 	{
 		if (int I = i % 2 == 0)
 		{
-			std::cout << I;
 			count2 += 1;
 		}
 		else
 		{
-			std::cout << I;
 			count1 += 1;
 		}
 	}
